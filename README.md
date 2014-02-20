@@ -1,7 +1,7 @@
 bdc-cleanup
 ===========
 
-Just an old site  - sadly made with frontpage - that needs to be brought back to life. Please check the Issues tab for the messy list we need to wipe out.
+Just an old site  - sadly made with frontpage - that needs to be brought back to life. Please check the [Issues](https://github.com/mpaiva/bdc-cleanup/issues) tab for the messy list we need to wipe out.
 
 
 ---
